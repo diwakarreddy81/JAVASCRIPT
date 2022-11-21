@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author diwak
+ *
+ */
+module JAVAPROJECTPACKAGES {
+}
